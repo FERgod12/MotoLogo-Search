@@ -31,11 +31,12 @@ El diseño de la base de datos en SQL es crucial, ya que nos permite definir de 
 ## *Instalación*
 
 1. Clona este repositorio en tu máquina local:
-git clone https://github.com/tu-usuario/moto-catalog-app.git
+git clone https://github.com/FERgod12/MotoLogo-Search.git
 
-2. Crea una base de datos SQLite utilizando el script database.sql.
 
-3. Ejecuta la aplicación en un entorno de desarrollo de Kotlin compatible.
+3. Crea una base de datos SQLite utilizando el script database.sql.
+
+4. Ejecuta la aplicación en un entorno de desarrollo de Kotlin compatible.
 
 
 ## *Licencia*
