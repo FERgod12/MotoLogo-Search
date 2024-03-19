@@ -1,1 +1,5 @@
-Diagramas Menú :
+# **DIAGRAMAS**
+
+**DIAGRAMAS DE LA BASE DE DATOS**
+
+![Imagen](BASEDEDATOS.png)
