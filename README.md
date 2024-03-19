@@ -47,4 +47,4 @@ Este proyecto está bajo la licencia "Developiando en el Tec"
 
 ## *Contacto*
 
-Para cualquier pregunta o comentario, por favor contacta a @Fernando https://github.com/Fernando.
+Para cualquier pregunta o comentario, por favor contacta a @Fernando https://github.com/FERgod12.
