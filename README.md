@@ -6,21 +6,16 @@ Este repositorio contiene el código fuente de la aplicación escrita en Kotlin 
 El diseño de la base de datos en SQL es crucial, ya que nos permite definir de manera clara y precisa cómo se almacenará la información necesaria para el funcionamiento del sistema. Es importante identificar los atributos que se guardarán en la base de datos, asegurándonos de capturar todos los datos relevantes para satisfacer las necesidades de los usuarios y cumplir con los objetivos del proyecto.
 
 
-# *Menú*
-Menú principal:
-https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA
+## Menú Principal
 
-Base de datos:
-https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/Base%20De%20Datos
+- [Menú Principal](https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA)
 
-Interfaz grafica:
-https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/Interfaz%20Grafica
+### Contenidos del Menú:
 
-Diagramas:
-https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/Diagramas
-
-Código:
-https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/C%C3%B3digo
+- [Base de datos](https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/Base%20De%20Datos)
+- [Interfaz Gráfica](https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/Interfaz%20Grafica)
+- [Diagramas](https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/Diagramas)
+- [Código](https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/C%C3%B3digo)
 
 
 ## *Funcionalidades*
