@@ -16,6 +16,9 @@ https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/Base%20De%20Dato
 Interfaz grafica:
 https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/Interfaz%20Grafica
 
+Diagramas:
+https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/Diagramas
+
 Código:
 https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/C%C3%B3digo
 
