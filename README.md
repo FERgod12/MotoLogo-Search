@@ -1,6 +1,6 @@
-# MotoLogo-Search
+# MotoLogo-Search Menú:
 
-##Menú: https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA
+https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA
 
 # *MotoLogoSearch*
 
