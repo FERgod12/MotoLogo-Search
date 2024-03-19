@@ -30,16 +30,6 @@ El diseño de la base de datos en SQL es crucial, ya que nos permite definir de 
 - SQL: Sistema de gestión de bases de datos relacional utilizado para almacenar la información de las motos.
  
 
-## *Instalación*
-
-1. Clona este repositorio en tu máquina local:
-git clone https://github.com/FERgod12/MotoLogo-Search.git
-
-
-3. Crea una base de datos SQLite utilizando el script database.sql.
-
-4. Ejecuta la aplicación en un entorno de desarrollo de Kotlin compatible.
-
 
 ## *Licencia*
 
