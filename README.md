@@ -13,7 +13,7 @@ El diseño de la base de datos en SQL es crucial, ya que nos permite definir de 
 ### Contenidos del Menú:
 
 - [Base de datos](https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/Base%20De%20Datos)
-- [Interfaz Gráfica](https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/Interfaz%20Grafica)
+- [Interfaz Gráfica](https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/Interfaz%20Grafica)(https://github.com/FERgod12/MotoLogo-Search/blob/main/Men%C3%BA/Interfaz%20Grafica/Interfaz.md)
 - [Diagramas](https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/Diagramas)
 - [Código](https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/C%C3%B3digo)
 
