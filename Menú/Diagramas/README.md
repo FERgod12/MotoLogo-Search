@@ -23,9 +23,7 @@ Este diagrama es útil para comprender la lógica de interacción entre los comp
 
 El diagrama de casos de uso describe las diferentes acciones que pueden realizar los usuarios del sistema y cómo se relacionan entre sí.
 
-![image](https://github.com/FERgod12/MotoLogo-Search/assets/159978743/9adceb5c-05f2-47d7-8f98-6a75c8a9f0b7)
-
-![Diagrama de Casos de Uso](https://github.com/FERgod12/MotoLogo-Search/blob/030a599429b71514a1760fc302511d8a04decf60/CASOSDEUSO.png)
+![Diagrama de Casos de Uso](https://github.com/FERgod12/MotoLogo-Search/assets/159978743/9adceb5c-05f2-47d7-8f98-6a75c8a9f0b7)
 
 Este diagrama es útil para comprender las funcionalidades principales del sistema desde la perspectiva del usuario.
 
