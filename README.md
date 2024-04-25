@@ -17,6 +17,13 @@ El diseño de la base de datos en SQL es crucial, ya que nos permite definir de 
 - [Diagramas](https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/Diagramas)
 - [Código](https://github.com/FERgod12/MotoLogo-Search/tree/main/Men%C3%BA/C%C3%B3digo)
 
+## *Integrantes*
+LUIS FERNANDO GODINEZ ROJAS. 
+CRISTIAN DE JESUS SALAS GUERRERO. 
+JUAN FRANSISCO REYES JASSO. 
+OSCAR EVARISTO PEREZ BECERRA. 
+JOSE MANUEL GUERRA TORRES.
+JASIEL HERNANDEZ HERNANDEZ. 
 
 ## *Funcionalidades*
 
