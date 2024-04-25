@@ -1,10 +1,8 @@
 # MotoLogo-Search
 
-Este repositorio contiene el código fuente de la aplicación escrita en Kotlin que permite a los usuarios cargar imágenes de motos, identificar el logotipo presente en la imagen y luego mostrar un catálogo de motos con el mismo logotipo. La aplicación utiliza una base de datos SQL para almacenar la información de las motos. Tambien contiene los diferentes diagramas que se necesitaron para el desarrollo de nuestro proyecto, ya que con ellos nos damos una visión clara y detallada de cómo interactuarán los usuarios con el sistema, así como también cómo se estructurará la información dentro de la base de datos.
+Este repositorio contiene el código fuente de la aplicación escrita en Python que permite a los usuarios cargar imágenes de motos, identificar el logotipo presente en la imagen y luego mostrar un catálogo de motos con el mismo logotipo. La aplicación utiliza Firebase como base de datos para almacenar la información de las motos y la API Cloud Vision para procesar las imágenes y reconocer los logotipos.
 
-
-El diseño de la base de datos en SQL es crucial, ya que nos permite definir de manera clara y precisa cómo se almacenará la información necesaria para el funcionamiento del sistema. Es importante identificar los atributos que se guardarán en la base de datos, asegurándonos de capturar todos los datos relevantes para satisfacer las necesidades de los usuarios y cumplir con los objetivos del proyecto.
-
+El diseño de la base de datos en Firebase es crucial, ya que nos permite definir de manera clara y precisa cómo se almacenará la información necesaria para el funcionamiento del sistema. Es importante identificar los atributos que se guardarán en la base de datos, asegurándonos de capturar todos los datos relevantes para satisfacer las necesidades de los usuarios y cumplir con los objetivos del proyecto.
 
 ## Menú Principal
 
@@ -39,11 +37,9 @@ El diseño de la base de datos en SQL es crucial, ya que nos permite definir de 
 
 ## *Tecnologías Utilizadas*
 
-- Kotlin: Lenguaje de programación utilizado para el desarrollo de la aplicación.
-
-
-- SQL: Sistema de gestión de bases de datos relacional utilizado para almacenar la información de las motos.
- 
+- Python: Lenguaje de programación utilizado para el desarrollo de la aplicación.
+- Firebase: Plataforma de desarrollo de aplicaciones móviles y web, utilizada como base de datos para almacenar la información de las motos.
+- Cloud Vision API: Servicio de Google Cloud Platform utilizado para procesar imágenes y reconocer logotipos.
 
 
 ## *Licencia*
