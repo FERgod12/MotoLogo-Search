@@ -1,7 +1,7 @@
 
 # Diagramas UML y Base de Datos
 
-En este repositorio encontrarás diferentes diagramas UML que ayudan a comprender la estructura y el funcionamiento de MotoLogo Search, así como el diseño de su base de datos.
+En este repositorio se encontraran diferentes diagramas UML que ayudan a comprender la estructura y el funcionamiento de MotoLogo Search, así como el diseño de nuestra base de datos.
 
 ## Diagrama de Clases
 
@@ -15,7 +15,7 @@ Este diagrama proporciona una visión general de las entidades y sus relaciones 
 
 El diagrama de secuencia muestra cómo interactúan las distintas partes del sistema en un escenario particular.
 
-![Diagrama de Secuencia]![image](https://github.com/FERgod12/MotoLogo-Search/assets/159978743/4adbc373-9904-4f82-ad9b-9f0596e99db4)
+![Diagrama de Secuencia](https://github.com/FERgod12/MotoLogo-Search/assets/159978743/4adbc373-9904-4f82-ad9b-9f0596e99db4)
 
 
 Este diagrama es útil para comprender la lógica de interacción entre los componentes del sistema en diferentes situaciones.
