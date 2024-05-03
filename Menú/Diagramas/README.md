@@ -15,7 +15,8 @@ Este diagrama proporciona una visión general de las entidades y sus relaciones 
 
 El diagrama de secuencia muestra cómo interactúan las distintas partes del sistema en un escenario particular.
 
-![Diagrama de Secuencia](https://github.com/FERgod12/MotoLogo-Search/blob/030a599429b71514a1760fc302511d8a04decf60/SECUENCIA.png)
+![Diagrama de Secuencia]![image](https://github.com/FERgod12/MotoLogo-Search/assets/159978743/4adbc373-9904-4f82-ad9b-9f0596e99db4)
+
 
 Este diagrama es útil para comprender la lógica de interacción entre los componentes del sistema en diferentes situaciones.
 
