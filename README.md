@@ -30,10 +30,6 @@ El diseño de la base de datos en Firebase es crucial, ya que nos permite defini
 - Consultar la base de datos para obtener un catálogo de motos con el mismo logotipo.
 - Mostrar el catálogo de motos al usuario.
 
-## *Estructura del Proyecto*
-
-- src/Proyecto: Contiene el código fuente de la aplicación en Kotlin.
-- database.sql: Archivo SQL que describe la estructura de la base de datos y proporciona un script para crear las tablas necesarias.
 
 ## *Tecnologías Utilizadas*
 
